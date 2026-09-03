@@ -1,19 +1,12 @@
-professor: Jansen K Cara Turma: DS1A Aluno: Marjory de Sousa Villas Boas
+Professor: Vitor Lima Santana
+Turma: Marjory de Sousa Villas Boas
 
-##Objetivo
-Desenvolver o nosso conhecimento de 
-- Tecnologias
+### Objetivo 
+Desenvolver nosso conhecimento em async e awaitd de maneira prática.
+
+### Tecnologias
 - Visual Code
 - Git
-Live Server !DOCTYPE html>
-<title>Document</title>
-A melhor turma é a DS1A
-Aula de HTML e CSS
-
-- Index.html
-- Sobre
-- Contato
-- Projetos
 
 Sobre mim
 Olá! Meu nome é Marjory, e sou um estudante do DS1A
