@@ -2,7 +2,7 @@ Professor: Vitor Lima Santana
 Turma: Marjory de Sousa Villas Boas
 
 ### Objetivo 
-Desenvolver nosso conhecimento em async e awaitd de maneira prática.
+Desenvolver nosso conhecimento em async e await de maneira prática.
 
 ### Tecnologias
 - Visual Code
